@@ -21,7 +21,7 @@
 Clone the repository:
 
 ```bash
-git clone [https://github.com/Ayb3rk38/TorScraper.git](https://github.com/Ayb3rk38/TorScraper.git)
+git clone [https://github.com/0xAyb3rK/TorScraper.git](https://github.com/Ayb3rk38/TorScraper.git)
 cd TorScraper 
 ```
 
